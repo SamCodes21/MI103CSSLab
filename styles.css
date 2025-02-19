@@ -1,0 +1,13 @@
+h1 {
+font-family: "Audiowide";
+color: #C03285;
+}
+
+.Box{
+    width: 100px;
+    height: 75px;
+    padding: 2%;
+    border: 5px solid black;
+    margin: 10px;
+    background: #631D52;
+}
